@@ -2,11 +2,7 @@ function addNumbers() {
   const a = 1;
   const b = 1;
 
-  let result;
-
-  result = "a" + "b"; // <------ EDIT THIS LINE
-
-  return result;
+  return a + b;// <------ EDIT THIS LINE
 }
 
 // Do not change this
